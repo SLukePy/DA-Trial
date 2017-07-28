@@ -1,0 +1,19 @@
+XYZ company has 15% attrition, that is causing 
+
+Project delays 
+Maintaining a sizeable recruiting department.
+More often trainings
+
+
+
+
+causing reputation loss among consumers and partners, 
+
+
+Management team would like to understand the factors that they should focus to curb attrition.
+
+Goal:
+Model the probability of attrition using a logistic regression.
+
+
+
